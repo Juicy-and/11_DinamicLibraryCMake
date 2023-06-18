@@ -1,1 +1,1 @@
-# 11_DinamicLibraryCMake
+# 11. Динамичкая библиотека в CMake
