@@ -12,6 +12,7 @@ namespace DinamicPower
 	class Leaver
 	{
 	public:
+		DINAMICPOWER_API
 		void leave(std::string name);
 	};
 }
