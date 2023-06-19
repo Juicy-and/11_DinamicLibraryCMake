@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.22.0)
-project(DinamicPower)
-set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
-add_library(powerLibraryLib SHARED DinamicPower.h DinamicPower.cpp
-add_executable(DinamicPowerExe main.cpp)
-target_link_libraries(DinamicPowerExe powerLibraryLib)
