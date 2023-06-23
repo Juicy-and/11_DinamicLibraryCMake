@@ -1,5 +1,5 @@
 #include <iostream>
-#include <DinamicPower.h>
+#include "DinamicPower.h"
 int main()
 {
     setlocale(LC_ALL, "Russian");
